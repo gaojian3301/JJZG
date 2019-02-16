@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/pateo/H6N/packages/apps/JinJieZhiGuang/pullToRefreshLibrary/src/main/assets"/><source path="/home/pateo/H6N/packages/apps/JinJieZhiGuang/pullToRefreshLibrary/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/pateo/H6N/packages/apps/JinJieZhiGuang/pullToRefreshLibrary/src/debug/assets"/></dataSet></merger>
